@@ -1,0 +1,20 @@
+{
+  "fromUserId": "10003271",
+  "fromUserName": "1335",
+  "toUserId": "10000071",
+  "toUserName": "1",
+  "timeSend": "1626342898894",
+  "type": 502,
+  "content": "你是？",
+  "from": "10003271/web",
+  "to": "10000071",
+  "messageId": "skimweb_100032711626342888782",
+  "chatType": 1,
+  "chatId": "10003271",
+  "id": "skimweb_100032711626342888782",
+  "createTime": "Thu Jul 15 2021 17:54:58 GMT+0800 (中国标准时间)",
+  "nickname": "1335",
+  "avatar": "http://121.40.177.43:8089/avatar/o/3271/10003271.jpg?x=0",
+  "is_revoke": 0,
+  "isNotice": true
+}

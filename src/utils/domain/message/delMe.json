@@ -1,0 +1,41 @@
+[
+
+  {
+    "fromUserId": "10003271",
+    "fromUserName": "1335",
+    "toUserId": "10000071",
+    "toUserName": "1333昵称",
+    "timeSend": "1626343026205",
+    "type": 505,
+    "content": "",
+    "from": "10003271/web",
+    "to": "10000071",
+    "messageId": "skimweb_100032711626343015157",
+    "chatType": 1,
+    "chatId": "10003271",
+    "id": "skimweb_100032711626343015157",
+    "createTime": "Thu Jul 15 2021 17:57:06 GMT+0800 (中国标准时间)",
+    "nickname": "1335",
+    "source": 1,
+    "avatar": "http://121.40.177.43:8089/avatar/o/3271/10003271.jpg?x=0",
+  },
+
+  //被拉进群
+  {
+    "fromUserId": "10000071",
+    "fromUserName": "1333昵称",
+    "toUserId": "10003271",
+    "toUserName": "1335",
+    "timeSend": "1626525043727",
+    "type": 907,
+    "content": "asdassa",
+    "objectId": "701b4906fb6e4858bc44b141b54bfa7c",
+    "fileName": "60f2cd73bfe5230001e898e3",
+    "from": "10005/Server",
+    "to": "10003271",
+    "messageId": "3338713b2fd3411295b2b2f0899f2b70",
+    "chatType": 1
+  }
+
+
+]

@@ -1,0 +1,63 @@
+
+.emoji{
+    width: 26px;
+    height: 26px;
+}
+
+//
+.context-menu-list{
+    .has-child{
+        padding: 0px!important;
+        .parent-name{
+            padding: 5px 10px;
+            .icon{
+                margin-right: 10px;
+                top: 8px;
+            }
+        }
+    }
+}
+
+//当前回复弹窗
+.current-answer{
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+    bottom: calc(30% - 15px);
+    background: white;
+    right: 1px;
+    z-index: 9999;
+    padding: 5px 10px;
+    .close{
+        float: right;
+    }
+}
+
+//回复消息
+.recover-msg{
+    .original_msg{
+        border-bottom: @answerBorder;
+    }
+}
+
+
+
+.chat-message{
+    max-width: calc(100% - 100px);
+}
+.original_msg {
+    .chat-message{
+        max-width: 100%;
+    }
+}
+
+.unread{
+    background-color: red;
+    color: white;
+    padding: 0px;
+    width: 16px;
+    height: 16px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+

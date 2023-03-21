@@ -1,0 +1,13 @@
+{
+  "fromUserId": "10000071",
+  "fromUserName": "1333昵称",
+  "toUserId": "10003271",
+  "timeSend": "1626342792849",
+  "type": 500,
+  "content": "啊实打实",
+  "isReadDel": false,
+  "from": "10000071/web",
+  "to": "10003271",
+  "messageId": "skimweb_100000711626342793702",
+  "chatType": 1
+}
